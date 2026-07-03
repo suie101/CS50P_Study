@@ -1,0 +1,16 @@
+certifi==2026.6.17
+charset-normalizer==3.4.7
+emoji==2.15.0
+idna==3.18
+inflect==7.5.0
+iniconfig==2.3.0
+more-itertools==11.1.0
+packaging==26.2
+pluggy==1.6.0
+pyfiglet==1.0.4
+Pygments==2.20.0
+pytest==9.1.1
+requests==2.34.2
+typeguard==4.5.2
+typing_extensions==4.15.0
+urllib3==2.7.0
