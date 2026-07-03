@@ -1,0 +1,20 @@
+{
+    "total_minutes": 825,
+    "by_topic": {
+        "Python": 770,
+        "Project": 55
+    },
+    "done": [
+        "Week2 loops and containers",
+        "Modules argv API JSON",
+        "pytest and virtualenv",
+        "CSV scourgify practice",
+        "OOP Student class",
+        "Jar class pytest",
+        "Shirtificate PDF",
+        "Report rendering"
+    ],
+    "blocked": [
+        "Handle invalid duration"
+    ]
+}

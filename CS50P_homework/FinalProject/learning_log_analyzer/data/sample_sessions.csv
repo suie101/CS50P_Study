@@ -1,0 +1,13 @@
+﻿date,topic,task,status,duration,notes
+2026-06-24,Python,Week2 loops and containers,done,2h 10m,"Finished loop/list/dict exercises #loops #list #dict"
+2026-06-25,Python,Modules argv API JSON,done,1h 35m,"Practiced sys.argv requests and JSON formatting #modules #api #json"
+2026-06-26,Python,pytest and virtualenv,done,1h 20m,"Created virtual environment and ran pytest #pytest #venv"
+2026-06-29,Python,CSV scourgify practice,done,1h 5m,"Read before.csv and wrote after.csv #csv #file-io"
+2026-06-30,Python,Regex watch parser,doing,45m,"Parsed YouTube iframe with re.search and re.sub #regex"
+2026-07-01,Python,OOP Student class,done,1h 40m,"Practiced class property inheritance and __str__ #oop"
+2026-07-02,Python,Jar class pytest,done,50m,"Fixed Jar state update order and tested behavior #oop #pytest"
+2026-07-03,Python,Shirtificate PDF,done,35m,"Generated PDF with FPDF and image placement #fpdf #file-output"
+2026-07-03,Project,Final project planning,doing,30m,"Designed learning_log_analyzer scope #planning #final-project"
+2026-07-04,Project,README and requirements,todo,25m,"Need document usage testing and dependencies #docs #requirements"
+2026-07-04,Python,Handle invalid duration,blocked,20m,"Need decide error message for invalid duration input #exception"
+2026-07-05,Python,Report rendering,done,2h30m,"Render Markdown and JSON summaries from records #report #json"

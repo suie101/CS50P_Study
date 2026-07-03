@@ -1,0 +1,195 @@
+{
+  "summary": {
+    "total_minutes": 825,
+    "by_topic": {
+      "Project": 55,
+      "Python": 770
+    },
+    "by_status": {
+      "blocked": 1,
+      "doing": 2,
+      "done": 8,
+      "todo": 1
+    },
+    "tag_counts": {
+      "api": 1,
+      "csv": 1,
+      "dict": 1,
+      "docs": 1,
+      "exception": 1,
+      "file-io": 1,
+      "file-output": 1,
+      "final-project": 1,
+      "fpdf": 1,
+      "json": 2,
+      "list": 1,
+      "loops": 1,
+      "modules": 1,
+      "oop": 2,
+      "planning": 1,
+      "pytest": 2,
+      "regex": 1,
+      "report": 1,
+      "requirements": 1,
+      "venv": 1
+    },
+    "done": [
+      "Week2 loops and containers",
+      "Modules argv API JSON",
+      "pytest and virtualenv",
+      "CSV scourgify practice",
+      "OOP Student class",
+      "Jar class pytest",
+      "Shirtificate PDF",
+      "Report rendering"
+    ],
+    "blocked": [
+      "Handle invalid duration"
+    ]
+  },
+  "records": [
+    {
+      "date": "2026-06-24",
+      "topic": "Python",
+      "task": "Week2 loops and containers",
+      "status": "done",
+      "duration_minutes": 130,
+      "notes": "Finished loop/list/dict exercises #loops #list #dict",
+      "tags": [
+        "loops",
+        "list",
+        "dict"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "topic": "Python",
+      "task": "Modules argv API JSON",
+      "status": "done",
+      "duration_minutes": 95,
+      "notes": "Practiced sys.argv requests and JSON formatting #modules #api #json",
+      "tags": [
+        "modules",
+        "api",
+        "json"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "topic": "Python",
+      "task": "pytest and virtualenv",
+      "status": "done",
+      "duration_minutes": 80,
+      "notes": "Created virtual environment and ran pytest #pytest #venv",
+      "tags": [
+        "pytest",
+        "venv"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "topic": "Python",
+      "task": "CSV scourgify practice",
+      "status": "done",
+      "duration_minutes": 65,
+      "notes": "Read before.csv and wrote after.csv #csv #file-io",
+      "tags": [
+        "csv",
+        "file-io"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "topic": "Python",
+      "task": "Regex watch parser",
+      "status": "doing",
+      "duration_minutes": 45,
+      "notes": "Parsed YouTube iframe with re.search and re.sub #regex",
+      "tags": [
+        "regex"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "topic": "Python",
+      "task": "OOP Student class",
+      "status": "done",
+      "duration_minutes": 100,
+      "notes": "Practiced class property inheritance and __str__ #oop",
+      "tags": [
+        "oop"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "topic": "Python",
+      "task": "Jar class pytest",
+      "status": "done",
+      "duration_minutes": 50,
+      "notes": "Fixed Jar state update order and tested behavior #oop #pytest",
+      "tags": [
+        "oop",
+        "pytest"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "topic": "Python",
+      "task": "Shirtificate PDF",
+      "status": "done",
+      "duration_minutes": 35,
+      "notes": "Generated PDF with FPDF and image placement #fpdf #file-output",
+      "tags": [
+        "fpdf",
+        "file-output"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "topic": "Project",
+      "task": "Final project planning",
+      "status": "doing",
+      "duration_minutes": 30,
+      "notes": "Designed learning_log_analyzer scope #planning #final-project",
+      "tags": [
+        "planning",
+        "final-project"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "topic": "Project",
+      "task": "README and requirements",
+      "status": "todo",
+      "duration_minutes": 25,
+      "notes": "Need document usage testing and dependencies #docs #requirements",
+      "tags": [
+        "docs",
+        "requirements"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "topic": "Python",
+      "task": "Handle invalid duration",
+      "status": "blocked",
+      "duration_minutes": 20,
+      "notes": "Need decide error message for invalid duration input #exception",
+      "tags": [
+        "exception"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "topic": "Python",
+      "task": "Report rendering",
+      "status": "done",
+      "duration_minutes": 150,
+      "notes": "Render Markdown and JSON summaries from records #report #json",
+      "tags": [
+        "report",
+        "json"
+      ]
+    }
+  ]
+}
